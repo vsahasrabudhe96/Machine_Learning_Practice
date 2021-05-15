@@ -14,5 +14,6 @@ For Gaussian, let’s assume we’re trying to classify whether a college studen
 As you may recall from any intro stats class, the distribution of heights in humans is continuous and normally distributed (the normal distribution is also called a Gaussian distribution, hence the name). So the algorithm will look at the height of all of the students we polled and determine where the cut-off should be to maximize the model performance (usually accuracy) to classify dunkers vs non-dunkers.
 ```
 
+![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/6436fa6968edcdfe9212302884346f7bf1ad54ca/NaiveBayes/GNB_MNB_out.PNG)
 
 Reference : https://www.quora.com/What-is-the-difference-between-the-the-Gaussian-Bernoulli-Multinomial-and-the-regular-Naive-Bayes-algorithms
