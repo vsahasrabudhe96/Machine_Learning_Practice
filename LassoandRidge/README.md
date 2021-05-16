@@ -15,11 +15,11 @@
 
 - Radio ads vs Sales
 
-![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/e95e8c5387f114bb80c05af3ffe02187e936bf20/LassoandRidge/LassoandRidge/radioads_vs_sales.png)
+![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/e95e8c5387f114bb80c05af3ffe02187e936bf20/LassoandRidge/radioads_vs_sales.png)
 
 - Newspaper ads vs Sales
 
-![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/e95e8c5387f114bb80c05af3ffe02187e936bf20/LassoandRidge/LassoandRidge/newspaperads_vs_sales.png)
+![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/e95e8c5387f114bb80c05af3ffe02187e936bf20/LassoandRidge/newspaperads_vs_sales.png)
 
 
 ```
