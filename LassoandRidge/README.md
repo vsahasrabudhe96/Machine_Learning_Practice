@@ -10,14 +10,16 @@
 ## Dataset images
 
 - TV ads vs Sales
-![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/6436fa6968edcdfe9212302884346f7bf1ad54ca/NaiveBayes/GNB_MNB_out.PNG)
+
+![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/e95e8c5387f114bb80c05af3ffe02187e936bf20/LassoandRidge/ads_vs_sales.png)
 
 - Radio ads vs Sales
-![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/6436fa6968edcdfe9212302884346f7bf1ad54ca/NaiveBayes/GNB_MNB_out.PNG)
+
+![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/e95e8c5387f114bb80c05af3ffe02187e936bf20/LassoandRidge/LassoandRidge/radioads_vs_sales.png)
 
 - Newspaper ads vs Sales
 
-![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/6436fa6968edcdfe9212302884346f7bf1ad54ca/NaiveBayes/GNB_MNB_out.PNG)
+![alt text](https://github.com/vsahasrabudhe96/Machine_Learning_Practice/blob/e95e8c5387f114bb80c05af3ffe02187e936bf20/LassoandRidge/LassoandRidge/newspaperads_vs_sales.png)
 
 
 ```
